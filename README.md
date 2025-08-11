@@ -1,12 +1,19 @@
-# React + Vite
+# Diseño y Programación de Software Multiplataforma
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Investigación Aplicada 1 – Proyecto Aplicado
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Definición del problema
 
-## Expanding the ESLint configuration
+Diseñar una **galería de tarjetas informativas** (ej. cursos, productos, servicios o artículos).  
+Las tarjetas deben cargarse de forma asincrónica y organizarse responsivamente para adaptarse a distintos dispositivos.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Integrantes del equipo
+
+- **Kevin Eduardo Arévalo Palacios - AP220842**
+- **Sergio Alejandro Arévalo Palacios - AP220841**
+- **Arnulfo Antonio Escobar Valle - EV220288**
+- **Ariel Ernesto Díaz Carpio - DC221025**
