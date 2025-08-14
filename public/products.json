@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP Pavilion",
+    "precio": 750,
+    "image": "/images/laptop-hp.jpeg",
+    "descripcion": "Laptop HP Pavilion con procesador Intel Core i5 y 8GB RAM."
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Inalámbrico",
+    "precio": 20,
+    "image": "/images/mouse-inalambrico.png",
+    "descripcion": "Mouse ergonómico con conexión Bluetooth."
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 60,
+    "image": "/images/teclado-mecanico.jpg",
+    "descripcion": "Teclado mecánico con iluminación RGB y switches azules."
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor 24'' Full HD",
+    "precio": 180,
+    "image": "/images/monitor-full-hd.jpg",
+    "descripcion": "Monitor LED de 24 pulgadas con resolución Full HD."
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares Gamer",
+    "precio": 45,
+    "image": "/images/auriculares-gamer.jpg",
+    "descripcion": "Auriculares con micrófono y sonido envolvente."
+  },
+  {
+    "id": 6,
+    "nombre": "Smartwatch Pro",
+    "precio": 120,
+    "image": "/images/smartwatch-pro.jpg",
+    "descripcion": "Reloj inteligente con monitor de ritmo cardíaco y GPS."
+  },
+  {
+    "id": 7,
+    "nombre": "Tablet Android 10''",
+    "precio": 200,
+    "image": "/images/tablet-10pulgadas.jpg",
+    "descripcion": "Tablet Android de 10 pulgadas con 64GB de almacenamiento."
+  },
+  {
+    "id": 8,
+    "nombre": "Cámara Fotográfica DSLR",
+    "precio": 550,
+    "image": "/images/camara-fotografica.jpg",
+    "descripcion": "Cámara réflex digital con lente 18-55mm."
+  },
+  {
+    "id": 9,
+    "nombre": "Altavoz Bluetooth",
+    "precio": 35,
+    "image": "/images/altavoz-bluetooth.jpg",
+    "descripcion": "Altavoz portátil con conexión Bluetooth y batería de 10 horas."
+  },
+  {
+    "id": 10,
+    "nombre": "Disco Duro Externo 1TB",
+    "precio": 65,
+    "image": "/images/disco-duro-externo.jpg",
+    "descripcion": "Disco duro externo portátil de 1TB."
+  },
+  {
+    "id": 11,
+    "nombre": "Silla Ergonómica",
+    "precio": 150,
+    "image": "/images/silla-ergonomica.jpg",
+    "descripcion": "Silla de oficina ergonómica con soporte lumbar."
+  },
+  {
+    "id": 12,
+    "nombre": "Lámpara LED Escritorio",
+    "precio": 25,
+    "image": "/images/lampara-led.jpg",
+    "descripcion": "Lámpara LED con brillo ajustable para escritorio."
+  }
+]
+
